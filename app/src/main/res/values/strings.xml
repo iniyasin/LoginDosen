@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginDosen</string>
+    <string name="dosen">Dosen</string>
+    <string name="nip">NIP</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="scan_barcode">Scan Barcode</string>
+</resources>
